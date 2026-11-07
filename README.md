@@ -4,14 +4,6 @@ I make free; open-source; general purpose software that values user privacy. Unf
 
 # Projects 🏗️
 
-```text
-https://github.com/someVeryCoolProgrammer/outshell
-```
-```text
-https://github.com/someVeryCoolProgrammer/outshell
-```
-
-This project is currently un-useable:
-```text
-https://github.com/someVeryCoolProgrammer/Hotel-Channel-Manager
-```
+- [outshell](https://github.com/someVeryCoolProgrammer/outshell)
+- [outbot](https://github.com/someVeryCoolProgrammer/outbot)
+- This project is currently un-useable: [Hotel Channel Manager](https://github.com/someVeryCoolProgrammer/Hotel-Channel-Manager)

@@ -1,3 +1,17 @@
-## Hey 👋
+# Who Am I? ❓
 
-I make software that values user privacy and security. Unfortunetly, a lot of software does not! I make projects a variety of projects, ranging from hotel channel managers to general purpose discord bots. I mainly program in Java, C, and Python (you'll only find projects in python for now becuase I am trying to finish off OutBot). 
+I make free; open-source; general purpose software that values user privacy. Unfortunetly, a lot of software does not! I make a projects variety of projects, ranging from a general purpose discord bots made in python to shells made in C. I mainly program in C and Python. I hope you can benifit from my projects. Feel free to check out the projects listed below!
+
+# Projects 🏗️
+
+```text
+https://github.com/someVeryCoolProgrammer/outshell
+```
+```text
+https://github.com/someVeryCoolProgrammer/outshell
+```
+
+This project is currently un-useable:
+```text
+https://github.com/someVeryCoolProgrammer/Hotel-Channel-Manager
+```
